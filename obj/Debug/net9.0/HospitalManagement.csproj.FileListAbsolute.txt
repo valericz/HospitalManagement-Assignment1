@@ -1,0 +1,15 @@
+/Users/weihuazhang/Desktop/25S2/32998 .NET/assignment1/HospitalManagement/obj/Debug/net9.0/HospitalManagement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/weihuazhang/Desktop/25S2/32998 .NET/assignment1/HospitalManagement/obj/Debug/net9.0/HospitalManagement.AssemblyInfoInputs.cache
+/Users/weihuazhang/Desktop/25S2/32998 .NET/assignment1/HospitalManagement/obj/Debug/net9.0/HospitalManagement.AssemblyInfo.cs
+/Users/weihuazhang/Desktop/25S2/32998 .NET/assignment1/HospitalManagement/obj/Debug/net9.0/HospitalManagement.csproj.CoreCompileInputs.cache
+/Users/weihuazhang/Desktop/25S2/32998 .NET/assignment1/HospitalManagement/obj/Debug/net9.0/HospitalManagement.sourcelink.json
+/Users/weihuazhang/Desktop/25S2/32998 .NET/assignment1/HospitalManagement/bin/Debug/net9.0/HospitalManagement
+/Users/weihuazhang/Desktop/25S2/32998 .NET/assignment1/HospitalManagement/bin/Debug/net9.0/HospitalManagement.deps.json
+/Users/weihuazhang/Desktop/25S2/32998 .NET/assignment1/HospitalManagement/bin/Debug/net9.0/HospitalManagement.runtimeconfig.json
+/Users/weihuazhang/Desktop/25S2/32998 .NET/assignment1/HospitalManagement/bin/Debug/net9.0/HospitalManagement.dll
+/Users/weihuazhang/Desktop/25S2/32998 .NET/assignment1/HospitalManagement/bin/Debug/net9.0/HospitalManagement.pdb
+/Users/weihuazhang/Desktop/25S2/32998 .NET/assignment1/HospitalManagement/obj/Debug/net9.0/HospitalManagement.dll
+/Users/weihuazhang/Desktop/25S2/32998 .NET/assignment1/HospitalManagement/obj/Debug/net9.0/refint/HospitalManagement.dll
+/Users/weihuazhang/Desktop/25S2/32998 .NET/assignment1/HospitalManagement/obj/Debug/net9.0/HospitalManagement.pdb
+/Users/weihuazhang/Desktop/25S2/32998 .NET/assignment1/HospitalManagement/obj/Debug/net9.0/HospitalManagement.genruntimeconfig.cache
+/Users/weihuazhang/Desktop/25S2/32998 .NET/assignment1/HospitalManagement/obj/Debug/net9.0/ref/HospitalManagement.dll

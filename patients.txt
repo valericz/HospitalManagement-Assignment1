@@ -1,0 +1,4 @@
+pat001|pat123|Alice|Wilson|alice.wilson@email.com|555-0201|123 Main St|1985-03-15
+pat002|pat456|Bob|Taylor|bob.taylor@email.com|555-0202|456 Oak Ave|1990-07-22
+pat003|pat789|Carol|Anderson|carol.anderson@email.com|555-0203|789 Pine Rd|1975-11-08
+pat999|newpat123|Tom|Wilson|tom.wilson@email.com|555-8888|789 New Street|1990-05-15
